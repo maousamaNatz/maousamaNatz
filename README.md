@@ -1,17 +1,23 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is maousamaNatz
 ====================================================================================================================================
 
-awd
+### Hey there! 👋 I'm MaouSamaNatz  
+
 ---
 
-awd
+#### 🌏 About Me:  
+- 🏡 I'm based in **Indonesia** 🇮🇩  
+- ✉️ Reach me at [i](mailto:i)  
+- 🚀 Currently working on [i.com](http://i.com)  
+- 🧠 Always learning **i** to grow my skills  
+- 🤝 Open to collaborate on **a** or any exciting projects!  
+- ⚡ Fun fact: Coffee fuels my creativity ☕  
 
-* 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [i](mailto:i)
-* 🚀  I'm currently working on [i.com](http://i.com)
-* 🧠  I'm learning i
-* 🤝  I'm open to collaborating on a
-* ⚡  wa
+#### 🌟 Let's connect!  
+- 💬 Hit me up for a chat or collaboration ideas.  
+- 🚀 Let's build something amazing together!  
+
+---
 
 ### Skills
 
@@ -22,6 +28,7 @@ awd
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Natz6n" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/natzsixn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/maousamaNatz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/Patch.cpp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/natzsixn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
